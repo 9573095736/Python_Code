@@ -10,6 +10,8 @@ app.config['MYSQL_PASSWORD'] = 'Clinicalfirst@123'
 app.config['MYSQL_DB'] = 'dbim4u0mfuramq'
 mysql = MySQL(app)
 
+# Hi User This is Raghu please merge my changes.
+
 
 ################################## PATIENT_PERSONAL_DETAILS ######################################
 
